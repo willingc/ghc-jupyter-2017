@@ -4,7 +4,20 @@
 
 Jupyter resources for Open Source Day at Grace Hopper Celebration 2017
 
-## Links
+## Event Links
 
 [2017 Open Source Day](https://ghc.anitaborg.org/2017-attend/conference-overview/open-source-day/)
 
+## Cool Humanitarian Links
+
+- [Geneva's Humanitarian Big Data workshop by Tim Head](https://github.com/wildtreetech/ghbd)
+  [Presentation](https://cdn.rawgit.com/wildtreetech/ghbd/master/slides/index.html#/)
+
+## Jupyter
+
+- jupyter.org
+- try.jupyter.org
+
+## Binder
+
+Share notebooks with your friends and others.
