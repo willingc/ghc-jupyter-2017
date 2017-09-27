@@ -14,8 +14,8 @@ Three simple goals:
 
 ###  Links to GHC sites
 
-- [Grace Hopper Celebration 2016 Open Source Day Code-a-thon for Humanity](http://ghc.anitaborg.org/2016-attend/conference-overview/open-source-day/)!
-- [Open Source Day wiki](http://systers.org/wiki/communities/doku.php?id=wiki:ghc:ghc16:osd:openhatch)
+- [Grace Hopper Celebration 2016 Open Source Day Code-a-thon for Humanity](https://ghc.anitaborg.org/2016-attend/conference-overview/open-source-day/)!
+- Open Source Day wiki _(link removed)_
 
 ## Key Info
 

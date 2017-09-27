@@ -10,8 +10,8 @@
 
 ## 2016 Houston, TX
 
-* [Repo](http://bit.ly/osd16repo)
-* [Website](http://bit.ly/osd16)
+* [Repo](https://github.com/willingc/ghc-openhatch-2016)
+* [Website](https://willingc.github.io/ghc-openhatch-2016/welcome/)
 
 ## 2015 Houston, TX
 
@@ -29,7 +29,7 @@
 - OpenHatch Open Source Comes to Campus workshop
     * [Photos from the event](https://www.flickr.com/photos/paulproteus/sets/72157640340073285/)
     * [Practicing git activity](http://wiki.openhatch.org/Open_Source_Comes_to_Campus/Practicing_Git)
-    * [Wiki article on OpenHatch](http://blog.openhatch.org/2014/openhatch-at-grace-hopper-open-source-day/)
+    * [Wiki article on OpenHatch](https://blog.openhatch.org/2014/openhatch-at-grace-hopper-open-source-day/)
 - [Carol's first public open source pull request](https://github.com/ghc-1/ghc-1.github.io/pull/10) and it happened during
 the Open Source Day workshop.
 
