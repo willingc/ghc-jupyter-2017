@@ -29,7 +29,7 @@ many available that are open source. Two user friendly editors are:
 1. Create a [GitHub account](https://help.github.com/articles/set-up-git/)
    if you do not already have one.
 
-   ![GitHub setup](../images/github.png)
+   ![GitHub setup](images/github.png)
    
 2. Make sure git is installed on your system.
 3. From the command line (terminal), enter `git --version`. If git is
