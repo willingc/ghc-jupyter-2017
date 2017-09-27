@@ -1,4 +1,4 @@
 sphinx
 recommonmark
 nbsphinx
-
+jupyter_client
