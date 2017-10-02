@@ -1,6 +1,17 @@
 Jupyter at GHC Open Source Day 2017
 ===================================
 
+.. important:: Before the event
+
+    The Grace Hopper Celebration is a busy, vibrant event. We know you are busy. Since conference wifi
+    can be spotty, please setup your laptop (if possible) before Open Source Day.
+
+    - Install [Anaconda](https://www.continuum.io/downloads)
+    - Install a favorite code editor (see recommendations in set up if you don't have a favorite)
+    - Create a GitHub account
+    - Install git
+
+
 2017 Open Source Day
 --------------------
 
