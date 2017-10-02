@@ -32,5 +32,5 @@
 
 ## Datasets
 
+- [The Humanitarian Data Exchange](https://data.humdata.org) - excellent search for datasets.
 - [Datasets curated by Hong Kong General Assembly](https://github.com/ga-students/DS_HK_9/blob/f63606cf6402bed194db178c111530ba100090bb/projects/00%20-%20Datasets.ipynb)
-- 
