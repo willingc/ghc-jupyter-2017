@@ -1,5 +1,4 @@
-
-## [Welcome to Jupyter](https://willingc.github.io/ghc-openhatch-2016/welcome/)
+# [Welcome to Jupyter and Open Source Day](https://ghc_jupyter.readthedocs.io)
 
 Thanks for joining us today.
 
@@ -10,11 +9,11 @@ Key things for a successful Open Source Day:
 - Ask questions. *Pro tip: Great developers ask lots of questions.*
 - Build useful things for humanity.
 
-##  Links
+## Links
 
-- [Repo:  http://bit.ly/osd16repo](http://bit.ly/osd16repo)
-- [Website for Participants and Mentors:  http://bit.ly/osd16](http://bit.ly/osd16)
-- [Grace Hopper Celebration 2016 Open Source Day Code-a-thon for Humanity](http://ghc.anitaborg.org/2016-attend/conference-overview/open-source-day/)!
+- [Repo:  https://github.com/willingc/ghc-jupyter-2017](https://github.com/willingc/ghc-jupyter-2017)
+- [Website for Participants and Mentors:  https://ghc_jupyter.readthedocs.io](https://ghc_jupyter.readthedocs.io)
+- [Grace Hopper Celebration 2017 Open Source Day(http://ghc.anitaborg.org/2017-attend/conference-overview/open-source-day/)!
 - [Open Source Day Wiki](http://systers.org/wiki/communities/doku.php?id=wiki:ghc:ghc16:osd)
 - [Open Source Day Wiki - OpenHatch](http://systers.org/wiki/communities/doku.php?id=wiki:ghc:ghc16:osd:openhatch)
 
@@ -25,16 +24,14 @@ Key things for a successful Open Source Day:
 - Lunch/Breaks
 - Presentation
 
-## About the Organizations
+## About the Organization
 
-- [OpenHatch](https://openhatch.org)
 - [Project Jupyter](https://jupyter.org)
 
 ## Mentors
 
+- Jamie Whitacre, Open Source Day Project Lead
 - Carol Willing @willingc
-- Jamie Whitacre
-- Reese Netro
 - More mentors coming soon
 
 ## Thanks
