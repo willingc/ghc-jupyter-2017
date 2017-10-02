@@ -12,4 +12,3 @@ Open Source Day 2016 with Jupyter and OpenHatch
    hfoss.md
    history.md
    nextsteps.md
-   mentors-meeting.ipynb
