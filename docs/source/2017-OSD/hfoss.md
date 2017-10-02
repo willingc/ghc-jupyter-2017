@@ -21,7 +21,7 @@
 [Data Science Projects of the UN](http://www.unglobalpulse.org/blog/big-data-development-action-global-pulse-project-series)
 - [Data for Good Exchange - Bloomberg](https://www.bloomberg.com/company/d4gx/)
 - [DataKind projects](http://www.datakind.org/projects)
-
+- [Data for Democracy](http://datafordemocracy.org/projects.html)
 ## Examples
 
 - [Humanitarian Day LA 2017](https://github.com/zahidmian/Humanitarian-Day-LA2017/blob/master/Humanitarian-Day-LA2017.ipynb)
