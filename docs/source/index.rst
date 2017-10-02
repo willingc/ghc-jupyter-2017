@@ -14,6 +14,11 @@ Jupyter at Open Source Day 2017
     - Create a GitHub account
     - Install git
 
+    - Optional (or if you have difficulty installing Anaconda):
+        - Install `nteract <https://nteract.io>`_ (a one-click install for notebooks on the desktop)
+        - Sign up for the free `Microsoft Azure notebooks <https://notebooks.azure.com>`_ (notebooks
+          in the cloud)
+
     For detailed instructions, see :doc:`Set up and configuration </2017-OSD/set-up>`.
 
 
