@@ -20,6 +20,9 @@ Jupyter at Open Source Day 2017
           (notebooks in the cloud)
 
     For detailed instructions, see :doc:`Set up and configuration </2017-OSD/set-up>`.
+    
+    Questions? File an issue on `our GitHub repo <https://github.com/willingc/ghc-jupyter-2017>`_. We'll
+    do our best to answer them. Thanks!
 
 
 2017 Open Source Day
