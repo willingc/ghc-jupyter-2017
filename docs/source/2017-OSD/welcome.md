@@ -9,6 +9,16 @@ Key things for a successful Open Source Day:
 - Ask questions. *Pro tip: Great developers ask lots of questions.*
 - Build useful things for humanity.
 
+## Before the event
+
+The Grace Hopper Celebration is a busy, vibrant event. We know you are busy. Since conference wifi
+can be spotty, please setup your laptop (if possible) before Open Source Day.
+
+- Install [Anaconda](https://www.continuum.io/downloads)
+- Install a favorite code editor (see recommendations in set up if you don't have a favorite)
+- Create a GitHub account
+- Install git
+
 ## Links
 
 - [Repo:  https://github.com/willingc/ghc-jupyter-2017](https://github.com/willingc/ghc-jupyter-2017)
