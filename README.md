@@ -4,6 +4,11 @@
 
 Jupyter resources for Open Source Day at Grace Hopper Celebration 2017
 
+## Start Here
+
+http://jupyter-ghc.readthedocs.io/en/latest/
+
+
 ## Event Links
 
 [2017 Open Source Day](https://ghc.anitaborg.org/2017-attend/conference-overview/open-source-day/)
