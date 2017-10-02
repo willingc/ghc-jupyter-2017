@@ -8,6 +8,9 @@ Jupyter resources for Open Source Day at Grace Hopper Celebration 2017
 
 http://jupyter-ghc.readthedocs.io/en/latest/
 
+## GHC wiki page for Project Jupyter and Open Source Day
+
+http://wiki.systers.org/communities/doku.php/wiki/ghc/ghc17/osd/projectjupyter
 
 ## Event Links
 
