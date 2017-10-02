@@ -13,11 +13,11 @@ Jupyter at Open Source Day 2017
     - Install a favorite code editor (see recommendations in set up if you don't have a favorite)
     - Create a GitHub account
     - Install git
-
     - Optional (or if you have difficulty installing Anaconda):
+
         - Install `nteract <https://nteract.io>`_ (a one-click install for notebooks on the desktop)
-        - Sign up for the free `Microsoft Azure notebooks <https://notebooks.azure.com>`_ (notebooks
-          in the cloud)
+        - Sign up for the free `Microsoft Azure notebooks <https://notebooks.azure.com>`_
+          (notebooks in the cloud)
 
     For detailed instructions, see :doc:`Set up and configuration </2017-OSD/set-up>`.
 
@@ -33,12 +33,6 @@ Jupyter at Open Source Day 2017
 - :doc:`History </2017-OSD/history>`
 - :doc:`Next steps </201-7OSD/nextsteps>`
 
-2016 Open Source Day
---------------------
-
-- :doc:`Contents </2016-OSD/index>`
-
-
 .. toctree::
    :hidden:
    
@@ -49,13 +43,6 @@ Jupyter at Open Source Day 2017
    2017-OSD/hfoss.md
    2017-OSD/history.md
    2017-OSD/nextsteps.md
-   2016-OSD/index
-   2016-OSD/welcome.md
-   2016-OSD/set-up.md
-   2016-OSD/notebooks.md
-   2016-OSD/hfoss.md
-   2016-OSD/history.md
-   2016-OSD/nextsteps.md
 
 Indices and tables
 ==================
