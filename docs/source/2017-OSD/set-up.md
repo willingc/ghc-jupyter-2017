@@ -29,8 +29,7 @@ many available that are open source. Two user friendly editors are:
    
 ## Command line (Terminal)
 
-
-
+Know how to access a terminal on your system.
 
 ## Jupyter Notebook
 
