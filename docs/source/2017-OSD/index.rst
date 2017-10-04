@@ -32,3 +32,4 @@ Open Source Day 2017 with Jupyter
    hfoss.md
    history.md
    nextsteps.md
+   project-guardianship.md
