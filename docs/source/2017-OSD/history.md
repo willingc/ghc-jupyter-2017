@@ -1,6 +1,6 @@
 # Jupyter and OpenHatch History at Open Source Day
 
-## 2016 Houston, TX
+## 2016 Houston,  TX
 
 * [Repo](https://github.com/willingc/ghc-openhatch-2016)
 * [Website](https://willingc.github.io/ghc-openhatch-2016/welcome/)
