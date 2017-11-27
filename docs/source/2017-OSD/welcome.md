@@ -23,7 +23,7 @@ can be spotty, please setup your laptop (if possible) before Open Source Day.
 
 - [Repo:  https://github.com/willingc/ghc-jupyter-2017](https://github.com/willingc/ghc-jupyter-2017)
 - [Website for Participants and Mentors:  https://ghc_jupyter.readthedocs.io](https://ghc_jupyter.readthedocs.io)
-- [Grace Hopper Celebration 2017 Open Source Day(http://ghc.anitaborg.org/2017-attend/conference-overview/open-source-day/)!
+- [Grace Hopper Celebration 2017 Open Source Day](http://ghc.anitaborg.org/2017-attend/conference-overview/open-source-day/)
 - [Open Source Day Wiki](http://systers.org/wiki/communities/doku.php?id=wiki:ghc:ghc16:osd)
 - [Open Source Day Wiki - OpenHatch](http://systers.org/wiki/communities/doku.php?id=wiki:ghc:ghc16:osd:openhatch)
 
