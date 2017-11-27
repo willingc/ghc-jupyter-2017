@@ -34,7 +34,7 @@ Jupyter at Open Source Day 2017
 - :doc:`Jupyter Notebooks </2017-OSD/notebooks>`
 - :doc:`HFOSS Humanitarian Free Open Source Software </2017-OSD/hfoss>`
 - :doc:`History </2017-OSD/history>`
-- :doc:`Next steps </201-7OSD/nextsteps>`
+- :doc:`Next steps </2017-OSD/nextsteps>`
 
 .. toctree::
    :hidden:
